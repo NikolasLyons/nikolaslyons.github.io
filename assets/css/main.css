@@ -2902,6 +2902,11 @@ input, select, textarea {
 	}
 
 /* Actions */
+.project-img{
+	height: 250px;
+	object-fit: cover;
+	background: #fff;
+}
 
 	ul.actions {
 		display: -moz-flex;
